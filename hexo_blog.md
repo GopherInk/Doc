@@ -2,7 +2,7 @@
 
 <div class="header-inside">
 
-<div class="logo">![](https://raw.githubusercontent.com/i6448038/easy/master/avator.jpeg) </div>
+<div class="logo">![]()</div>
 
 <nav class="navbar">
 
