@@ -1,10 +1,4 @@
-<!-- Title -->
-
 # [golang 图片处理，剪切，base64数据转换，文件存储](/2015/03/05/golangImageLibrary/)
-
-<!-- Author -->
-
-Tags
 
 [golang](/tags/golang)
 
@@ -15,8 +9,6 @@ Tags
 <span class="glyphicon glyphicon-time"></span> 2015-03-05 20:11:59
 
 * * *
-
-<div class="typo">
 
 ## AUTH:[PHILO](http://philo.top/about) VERSION:2
 
