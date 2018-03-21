@@ -1,1 +1,5 @@
-# GoDict.github.io
+# GopherInk.github.io
+
+***
+gopherの文库
+***
