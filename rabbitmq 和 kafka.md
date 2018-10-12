@@ -1,0 +1,1 @@
+[rabbitmq 和 kafka](https://www.cnblogs.com/shi-meng/p/5190980.html)
